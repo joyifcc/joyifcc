@@ -1,0 +1,3 @@
+Seed: 1
+Avatar X: 13
+Avatar Y: 13
